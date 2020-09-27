@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5288CA45-78AB-8839-66E8-3D82004DF48E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/墨迹/Script/GameManager1.cs">
+    <Files>
+      <File FileName="Assets/墨迹/Script/StoneOccur.cs" Line="75" Column="71" IsPinned="True" />
+      <File FileName="Assets/墨迹/Script/GameManager1.cs" Line="29" Column="36" />
+      <File FileName="Assets/墨迹/Script/BackTime.cs" Line="34" Column="26" />
+      <File FileName="Assets/墨迹/Script/StoneMaster.cs" Line="26" Column="46" />
+      <File FileName="Assets/墨迹/Script/MoveController.cs" Line="37" Column="25" />
+      <File FileName="Assets/墨迹/Script/HPtest.cs" Line="15" Column="9" />
+      <File FileName="Assets/墨迹/Script/Score.cs" Line="30" Column="22" />
+      <File FileName="Assets/墨迹/Script/Smallink.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="墨迹" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="墨迹" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="GameManager1.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f14dab17-e7dc-4e37-8a10-eee86819795d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
