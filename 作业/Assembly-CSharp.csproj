@@ -75,8 +75,8 @@
     <Compile Include="Assets\03.碰撞和物理（一）\CharacterElf.cs" />
     <Compile Include="Assets\03.碰撞和物理（一）\ScoreB.cs" />
     <Compile Include="Assets\03.碰撞和物理（一）\controlBallMove.cs" />
-    <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Other\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\Other\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

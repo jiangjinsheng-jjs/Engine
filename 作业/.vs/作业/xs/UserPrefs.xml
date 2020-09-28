@@ -2,14 +2,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/03.碰撞和物理（一）/controlBallMove.cs">
     <Files>
       <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/StoneMaster.cs" Line="60" Column="1" />
-      <File FileName="Assets/03.碰撞和物理（一）/BallMaster.cs" Line="26" Column="14" />
-      <File FileName="Assets/03.碰撞和物理（一）/ScoreB.cs" Line="55" Column="48" />
-      <File FileName="Assets/03.碰撞和物理（一）/Character.cs" Line="7" Column="27" />
-      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/Score.cs" Line="30" Column="31" />
-      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/Smallink.cs" Line="1" Column="1" />
-      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/HPtest.cs" Line="17" Column="19" />
+      <File FileName="Assets/03.碰撞和物理（一）/BallMaster.cs" />
+      <File FileName="Assets/03.碰撞和物理（一）/ScoreB.cs" />
+      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/Score.cs" />
+      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/Smallink.cs" />
+      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/HPtest.cs" />
       <File FileName="Assets/03.碰撞和物理（一）/controlBallMove.cs" Line="10" Column="13" />
-      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/BackTime.cs" Line="50" Column="65" />
+      <File FileName="Assets/02.游戏框架与脚本3C InkGame/Script/BackTime.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +19,7 @@
                 <Node name="Script" expanded="True" />
               </Node>
               <Node name="03.碰撞和物理（一）" expanded="True">
-                <Node name="controlBallMove.cs" selected="True" />
+                <Node name="PhysicsGame" selected="True" />
               </Node>
             </Node>
           </Node>
