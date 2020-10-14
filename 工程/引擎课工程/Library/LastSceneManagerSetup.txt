@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/03.\u78B0\u649E\u548C\u7269\u7406\uFF08\u4E00\uFF09/PhysicsGame.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

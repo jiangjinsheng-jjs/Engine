@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E30B7669-7220-6A0F-F555-C761D1D95C8F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/03.碰撞和物理（一）/controlBallMove.cs">
+    <Files>
+      <File FileName="Assets/03.碰撞和物理（一）/ScoreB.cs" Line="71" Column="69" />
+      <File FileName="Assets/03.碰撞和物理（一）/CharacterElf.cs" />
+      <File FileName="Assets/03.碰撞和物理（一）/controlBallMove.cs" Line="24" Column="80" />
+      <File FileName="Assets/03.碰撞和物理（一）/BallMaster.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="引擎课工程" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="03.碰撞和物理（一）" expanded="True">
+                <Node name="controlBallMove.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="544ce3c9-e548-4685-97ce-97bd64f08d80" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
